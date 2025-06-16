@@ -4,7 +4,7 @@ title: I'm Mike
 hide: true
 ---
 
-Hello! My name is Mike. One fun fact is I love training dogs!
+Hello! My name is Mike. One fun fact is I love training dogs! We just made another change. 
 
 ### Development Environment
 
